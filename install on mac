@@ -4,5 +4,10 @@ Step 1:paste below link in terminal
 
 automatically install
 
-run command: groovy -v or groovy--version
+run command: brew -v or brew--version for check brew version
+
+once process completed
+run command :brew install groovy
+run command: groovy -v or groovy--version for check groovy version
+
 
