@@ -1,0 +1,8 @@
+Step 1:paste below link in terminal
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+automatically install
+
+run command: groovy -v or groovy--version
+
